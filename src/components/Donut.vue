@@ -42,7 +42,7 @@
 export default {
   props: {
     dataVal: {
-      default: 25
+      default: 31
     },
     dataTitle: {
       default: "Data Title"
