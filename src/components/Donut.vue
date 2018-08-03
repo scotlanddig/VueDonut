@@ -48,7 +48,7 @@ export default {
       default: "Data Title"
     },
     animation: {
-      default: false
+      default: true
     },
     strokeWidth: {
       default: 7
