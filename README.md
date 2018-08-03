@@ -1,6 +1,9 @@
-# test-project
+# VueDonut
 
-> A Vue.js project
+> A simple donut chart that can be given a scale to calculat how much to shade  (default is 0-100)
+
+# Demo 
+https://codesandbox.io/s/qzvm3yq246
 
 ## Build Setup
 
@@ -24,4 +27,4 @@ npm run unit
 npm test
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
