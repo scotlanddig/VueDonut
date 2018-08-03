@@ -1,6 +1,6 @@
 # VueDonut
 
-> A simple donut chart that can be given a scale to calculat how much to shade  (default is 0-100)
+> A simple donut chart that can be given a scale to calculate how much to shade  (default scale is 0-100)
 
 # Demo 
 https://codesandbox.io/s/qzvm3yq246
