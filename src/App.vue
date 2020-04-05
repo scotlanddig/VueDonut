@@ -5,13 +5,13 @@
 </template>
 
 <script>
-import Donut from "./components/Donut";
+import Donut from './components/Donut';
 
 export default {
-  name: "App",
+  name: 'App',
   components: {
-    Donut
-  }
+    Donut,
+  },
 };
 </script>
 
